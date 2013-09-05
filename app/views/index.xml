@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Label class="oswarning" platform="!android">It's kind of pointless to run this on anything other than Android</Label>
+		<Label class="smugness" platform="android">Whatever you were doing, I was doing it *before* it was cool</Label>
+		<Label class="help" platform="android">To help you out, I've left the SystemUI bar alone so you can escape.</Label>
+	</Window>
+</Alloy>
